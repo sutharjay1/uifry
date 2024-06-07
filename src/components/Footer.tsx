@@ -108,13 +108,13 @@ const Footer = () => {
 								<Link to={'/'}>
 									{theme === 'dark' ? (
 										<img
-											src="../../../public/logo-dark.svg"
+											src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771735/asipcq2qkw3d75pnkwho.svg"
 											alt="logo"
 											className="max-w-28	"
 										/>
 									) : (
 										<img
-											src="../../../public/logo-light.svg"
+											src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771737/mjtk04xuzkcb3hizhzk9.svg"
 											alt="logo"
 											className="w-28	"
 										/>

@@ -79,7 +79,7 @@ const HeroOne = ({ theme }: { theme: string }) => {
 
 						<div className="w-full ">
 							<img
-								src="../../public/asset1-strip.svg"
+								src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771648/oqurvjyewjyzlerccest.svg"
 								alt="Decorative strip"
 								className="w-full"
 							/>
@@ -90,7 +90,7 @@ const HeroOne = ({ theme }: { theme: string }) => {
 			<div className="w-full lg:w-[45%] h-auto 	flex items-start justify-start">
 				<motion.img
 					className="object-cover max-w-full md:max-w-none h-auto"
-					src="../../public/asset1.svg"
+					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771649/u2ayok9un6cwk89so0hw.svg"
 					alt="Illustrative graphic"
 					initial={{ opacity: 0, y: 200 }}
 					animate={{ opacity: 1, y: -20 }}
@@ -142,7 +142,7 @@ const HeroTwo = ({ theme }: { theme: string }) => {
 			<div className="w-full h-auto hidden md:flex items-start justify-start">
 				<motion.img
 					className="object-cover max-w-full md:max-w-none h-auto"
-					src="../../public/asset2.svg"
+					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771649/toniyocmyrfptl62ljwx.svg"
 					alt="Illustrative graphic"
 					initial={{ opacity: 0, y: 200 }}
 					animate={{ opacity: 1, y: -20 }}
@@ -259,9 +259,9 @@ const HeroThree = ({ theme }: { theme: string }) => {
 				</div>
 			</div>
 			<div className="w-full lg:w-[45%] h-auto 	flex items-start justify-start">
-				<img
+				<motion.img
 					className="object-cover max-w-full md:max-w-none h-auto"
-					src="../../public/asset3.svg"
+					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717772369/p0od3gbro4h7lbyviwec.png"
 					alt="Illustrative graphic"
 					initial={{ opacity: 0, y: 200 }}
 					animate={{ opacity: 1, y: -20 }}
@@ -278,7 +278,7 @@ const HeroFour = ({ theme }: { theme: string }) => {
 			<div className="w-full h-auto hidden md:flex items-start justify-start">
 				<motion.img
 					className="object-cover max-w-full md:max-w-none h-auto"
-					src="../../public/asset4.svg"
+					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771721/smnplmwqzxbdnznputla.svg"
 					alt="Illustrative graphic"
 					initial={{ opacity: 0, y: 200 }}
 					animate={{ opacity: 1, y: -20 }}
@@ -342,7 +342,7 @@ const HeroFive = ({ theme }: { theme: string }) => {
 			<div className="w-full h-auto hidden md:flex items-start justify-start">
 				<motion.img
 					className="object-cover max-w-full md:max-w-none h-auto"
-					src="../../public/asset5.svg"
+					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771721/rs1pr5c4mug09ejdszx6.svg"
 					alt="Illustrative graphic"
 					initial={{ opacity: 0, y: 200 }}
 					animate={{ opacity: 1, y: -20 }}
@@ -511,7 +511,7 @@ const HeroSeven = ({ theme }: { theme: string }) => {
 		<div className="w-full flex flex-col items-center justify-center py-16 px-3">
 			<div className="relative w-full flex flex-col items-center justify-center">
 				<img
-					src="../../public/asset6.svg"
+					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717771734/d8ltmh5amzd5sigli6gc.svg	"
 					alt="hero"
 					width="100%"
 					className="rounded-md hidden md:flex"
