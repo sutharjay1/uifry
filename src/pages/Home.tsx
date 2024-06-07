@@ -261,7 +261,7 @@ const HeroThree = ({ theme }: { theme: string }) => {
 			<div className="w-full lg:w-[45%] h-auto 	flex items-start justify-start">
 				<motion.img
 					className="object-cover max-w-full md:max-w-none h-auto"
-					src="https://res.cloudinary.com/di4uqe4to/image/upload/v1717772369/p0od3gbro4h7lbyviwec.png"
+					src="https://ik.imagekit.io/1o3zbcknw/asset3.svg?updatedAt=1717772708932"
 					alt="Illustrative graphic"
 					initial={{ opacity: 0, y: 200 }}
 					animate={{ opacity: 1, y: -20 }}
